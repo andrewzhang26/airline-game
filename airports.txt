@@ -1,0 +1,30 @@
+New York,1184,240,3
+Los Angeles,162,390,3
+Chicago,871,210,3
+Houston,703,489,3
+Phoenix,306,397,2
+Philadelphia,1158,252,2
+Las Vegas,247,343,2
+Washington DC,1115,280,2
+San Francisco,73,309,1.5
+Miami,1042,583,1.5
+Dallas,664,422,1.5
+Seattle,72,68,1.5
+Boston,1253,202,1.5
+Charlotte,1030,362,1.5
+San Diego,192,422,1
+Detroit,976,201,1
+Atlanta,946,395,1
+Denver,479,256,1
+Nashville,876,343,1
+Cleveland,1006,221,0.7
+Minneapolis,734,137,0.7
+Portland,72,127,0.7
+El Paso,440,442,0.7
+St. Louis,811,286,0.7
+New Orleans,828,486,0.7
+Salt Lake City,315,239,0.3
+Des Moines,716,217,0.3
+Boise,212,168,0.3
+Bismark,559,93,0.3
+Providence,1244,218,0.3
